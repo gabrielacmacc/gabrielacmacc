@@ -3,7 +3,7 @@
 <h1></h1>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacmacc&theme=transparent&show_icons=true&hide_border=true&hide_title=true" alt="gabrielacmacc's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacmacc&theme=transparent&show_icons=true&hide_border=true&hide_title=true&layout=compact" alt="gabrielacmacc's GitHub Stats" />
 </div>
 
 <!-- <div align=center>
@@ -16,7 +16,7 @@
 
 - Portuguese: Native
 - English: Proficient
-- French: Learning
+- French: Beginner
 
 <h1></h1>
 
