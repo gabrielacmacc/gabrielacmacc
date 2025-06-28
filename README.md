@@ -1,4 +1,7 @@
-### Hi there 👋
+### ✨ About me
+
+- Biomedical Engineering graduate from Unisinos
+- Computer Sciences undergraduate at UFRGS
 
 <h1></h1>
 
@@ -12,7 +15,7 @@
 
 <h1></h1>
 
-### Languages
+### 💬 Languages
 
 - Portuguese: Native
 - English: Proficient
@@ -20,7 +23,7 @@
 
 <h1></h1>
 
-### How to reach me
+### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Copetti-yellow)](https://www.linkedin.com/in/gabrielacopetti/)
 
