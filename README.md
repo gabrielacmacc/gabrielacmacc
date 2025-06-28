@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <div align=center>
-  [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielacmacc&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=transparent&show_icons=true&hide_border=true&hide_title=true&text_color=785a94)](https://github.com/gabrielacmacc)
+<!--   [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielacmacc&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=transparent&show_icons=true&hide_border=true&hide_title=true&text_color=785a94)](https://github.com/gabrielacmacc)
+  ![gabrielacmacc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacmacc&theme=buefy&show_icons=true&hide_border=true&layout=compact) -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacmacc&theme=default&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <!--
