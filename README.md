@@ -1,10 +1,28 @@
 ### Hi there 👋
 
+<h1></h1>
+
 <div align=center>
-<!--   [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielacmacc&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=transparent&show_icons=true&hide_border=true&hide_title=true&text_color=785a94)](https://github.com/gabrielacmacc)
-  ![gabrielacmacc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacmacc&theme=buefy&show_icons=true&hide_border=true&layout=compact) -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacmacc&theme=default&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacmacc&theme=transparent&show_icons=true&hide_border=true&hide_title=true" alt="gabrielacmacc's GitHub Stats" />
 </div>
+
+<!-- <div align=center>
+   <img src="https://github-readme-stats.vercel.app/api?username=gabrielacmacc&theme=transparent&show_icons=true&hide_border=true&hide_title=true&count_private=true" alt="gabrielacmacc's GitHub Stats" /> 
+</div> -->
+
+<h1></h1>
+
+### Languages
+
+- Portuguese: Native
+- English: Proficient
+- French: Learning
+
+<h1></h1>
+
+### How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Copetti-yellow)](https://www.linkedin.com/in/gabrielacopetti/)
 
 <!--
 **gabrielacmacc/gabrielacmacc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
