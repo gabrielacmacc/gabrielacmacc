@@ -2,8 +2,11 @@
 
 - Biomedical Engineering graduate from Unisinos
 - Computer Sciences undergraduate at UFRGS
+<!-- - Java | Python | C -->
 
 <h1></h1>
+
+### :bar_chart: Stats
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacmacc&theme=transparent&show_icons=true&hide_border=true&hide_title=true&layout=compact" alt="gabrielacmacc's GitHub Stats" />
